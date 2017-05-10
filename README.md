@@ -23,9 +23,9 @@ Below solutions are available in this repository:<br />
 
 
 <tr>
-<td>1001</td>
-<td>Extremely Basic</td>
-<td>C, CPP, Java</td>
+<td><a href="https://github.com/ManiruzzamanAkash/URI-Online-Judge-All-Problems-Solution/blob/master/URI_1001.cpp">1001</a></td>
+<td><a href="https://github.com/ManiruzzamanAkash/URI-Online-Judge-All-Problems-Solution/blob/master/URI_1001.cpp">Extremely Basic</a></td>
+<td>C, <a href="https://github.com/ManiruzzamanAkash/URI-Online-Judge-All-Problems-Solution/blob/master/URI_1001.cpp">CPP</a>, <a href="https://github.com/ManiruzzamanAkash/URI-Online-Judge-All-Problems-Solution/blob/master/URI_1001.java">Java</a></td>
 </tr>
 
 <tr>
@@ -79,24 +79,101 @@ Below solutions are available in this repository:<br />
 <td>C, CPP, Java</td>
 </tr>
 
+<tr>
+<td>1010</td>
+<td>Simple Calculate</td>
+<td>C, CPP, Java</td>
+</tr>
+
+<tr>
+<td>1011</td>
+<td>Sphere	Sequential</td>
+<td>C, CPP, Java</td>
+</tr>
+
+<tr>
+<td>1012</td>
+<td>Area	Sequential</td>
+<td>C, CPP, Java</td>
+</tr>
+
+<tr>
+<td>1013</td>
+<td>The Greatest</td>
+<td>C, CPP, Java</td>
+</tr>
+
+<tr>
+<td>1014</td>
+<td>Consumption</td>
+<td>C, CPP, Java</td>
+</tr>
+
+<tr>
+<td>1015</td>
+<td>Distance Between Two Points</td>
+<td>C, CPP, Java</td>
+</tr>
+
+<tr>
+<td>1016</td>
+<td>Distance</td>
+<td>C, CPP, Java</td>
+</tr>
+
+<tr>
+<td>1017</td>
+<td>Fuel Spent</td>
+<td>C, CPP, Java</td>
+</tr>
+
+<tr>
+<td>1018</td>
+<td>Banknotes</td>
+<td>C, CPP, Java</td>
+</tr>
+
+<tr>
+<td>1019</td>
+<td>Time Conversion</td>
+<td>C, CPP, Java</td>
+</tr>
+
+<tr>
+<td>1020</td>
+<td>Age in Days</td>
+<td>C, CPP, Java</td>
+</tr>
+
+<tr>
+<td>1021</td>
+<td>Banknotes and Coins</td>
+<td>C, CPP, Java</td>
+</tr>
+
+<tr>
+<td>1035</td>
+<td>Selection Test 1</td>
+<td>C, CPP, Java</td>
+</tr>
+
+<tr>
+<td>1036</td>
+<td>Bhaskara's Formula</td>
+<td>C, CPP, Java</td>
+</tr>
+
+<tr>
+<td>1037</td>
+<td>Interval</td>
+<td>C, CPP, Java</td>
+</tr>
+
+<tr>
+<td>1038</td>
+<td>Snack</td>
+<td>C, CPP, Java</td>
+</tr>
 </table>
-
-
-1010			Simple Calculate	Sequential	47,957	1
-1011			Sphere	Sequential	42,564	1
-1012			Area	Sequential	42,595	1
-1013			The Greatest	Sequential	41,012	1
-1014			Consumption	Sequential	42,086	1
-1015			Distance Between Two Points	Sequential	42,174	1
-1016			Distance	Sequential	37,550	1
-1017			Fuel Spent	Sequential	39,040	1
-1018			Banknotes	Sequential	35,428	1
-1019			Time Conversion	Sequential	36,406	1
-1020			Age in Days	Sequential	37,088	1
-1021			Banknotes and Coins	Sequential	21,458	1
-1035			Selection Test 1	Selection	33,583	1
-1036			Bhaskara's Formula	Selection	28,558	1
-1037			Interval	Selection	27,917	1
-1038			Snack	Selection	33,801	1
-
+<br />..Adding Here more URI online Judge Solution..Just wait and star the repository..
 
