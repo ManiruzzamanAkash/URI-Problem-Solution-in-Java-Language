@@ -1,20 +1,13 @@
-#include <cstdio>
-#include <cmath>
+#include <stdio.h>
+#include <math.h>
 
 int main()
 {
-	int x1;
-	int x2; 
-	int y1;
-	int y2;
-	double dist;
+	double x1, x2, y1, y2, dist;
 
-	scanf("%i", &x1);
-	scanf("%i", &y1);
-	scanf("%i", &x2);
-	scanf("%i", &y2);
+	scanf("%lf %lf %lf %lf", &x1, &y1, &x2, &y2);
 
-	dist = sqrt(((x2 - x1) * (x2 - x1)) + ((y2 - y1) * (y2 - y1)));
+	dist = sqrt(pow(x2-x1,2)+pow(y2-y1,2));
 
 	printf("%.4lf\n", dist);
 	return 0;
