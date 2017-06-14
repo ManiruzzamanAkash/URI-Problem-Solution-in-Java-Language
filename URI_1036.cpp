@@ -1,18 +1,23 @@
-#include <cstdio>
-#include <cmath>
+#include<stdio.h>
 
-using namespace std;
- 
-int main(int argc, char const *argv[])
+int main()
 {
-	double a, b, c, t;
-	scanf("%lf %lf %lf", &a, &b, &c);
-	
-	if(((b * b) - 4 * a * c) < 0 || a == 0) printf("Impossivel calcular\n");
-	else {
-		t = sqrt((b * b) - 4 * a * c);
-		printf("R1 = %.5lf\nR2 = %.5lf\n", ((-b + t) / (2 * a)), ((-b - t) / (2 * a)));
-	}
- 
-	return 0;
+ float n;
+ scanf("%f", &n);  //take value from the user
+
+ if(n < 0 || n > 100){
+  printf("Fora de intervalo\n");
+ }else{
+  if(n >= 0 && n <= 25){
+   printf("Intervalo [0,25]\n");
+  }else if(n > 25 && n <= 50){
+   printf("Intervalo (25,50]\n");
+  }else if(n > 50 && n <= 75){
+   printf("Intervalo (50,75]\n");
+  }else{
+   printf("Intervalo (75,100]\n");
+  }
+ }
+
+ return 0;
 }
